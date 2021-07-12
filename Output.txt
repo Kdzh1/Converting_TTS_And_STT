@@ -1,0 +1,1 @@
+{"result_index": 0, "results": [{"final": true, "alternatives": [{"transcript": "hello everyone I'm converting from speech to text ", "confidence": 0.96}]}]}
